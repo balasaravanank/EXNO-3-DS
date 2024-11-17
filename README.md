@@ -43,4 +43,5 @@ We use this categorical data encoding technique when the features are nominal(do
 ![10](https://github.com/user-attachments/assets/09b6a575-eb74-417d-816f-af81a4f0d8b1)
 
 # RESULT:
+The data was successfully read, feature encoding and transformation were performed, and the processed data was saved to a file named DS Ex No 3.
        
